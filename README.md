@@ -8,4 +8,4 @@ Inside the script change the HEX value of the corresponding variable to change t
 Find an icon you like. Open in a text editor. Paste the values in the corresponding section of the script.
 Replace any color values with the corresponding variables used in the script.
 
-If you bork it and ES still lanuches run the 'Restore Defaults' script to save your butt.
+If you bork it and ES still launches run the 'Restore Defaults' script to save your butt.
